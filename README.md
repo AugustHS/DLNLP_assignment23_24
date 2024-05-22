@@ -4,6 +4,7 @@ For this purpose, CNN, LSTM and fine-tuned pretrained BERT models were used to r
 The Emotions Dataset for NLP downloaded from Kaggle was used as the original dataset for this project, and the performance of these models was comprehensively evaluated through operations such as data preprocessing, model construction, training and validation. 
 
 ## The organization of this project
+The link for the datasets used in this project: https://www.kaggle.com/datasets/praveengovi/emotions-dataset-for-nlp
 There are three deep-learning models for this project, divided into two differnt tasks.
 ### Task A: Building two custom models (CNN and LSTM)
   - Model A: a CNN-based model
