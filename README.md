@@ -25,14 +25,14 @@ But if you want to go further into the full code of my project, please check out
 - **model.py**: contains the structure of Model A,B, and C
 - **Model_A.pth**: contains the well-trained Model A
 - **Model_B.pth**: contains the well-trained Model B
-- **Model_C.pth**: contains the fine-tuned Model C
+- **Model_C/**: contains the fine-tuned Model C
 
 ## Required packages
 **main.py**:
-numpy==1.19.5
-pandas==1.2.4
-nltk==3.6.2
-scikit-learn==0.24.2
-torch==1.8.1
-tensorflow==2.4.1
-transformers==4.6.1
+- numpy
+- pandas
+- nltk
+- scikit-learn
+- torch
+- tensorflow
+- transformers
